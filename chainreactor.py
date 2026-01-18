@@ -101,7 +101,7 @@ with tab_help:
     st.markdown("""
     <div class='help-box'>
     <h3>📖 The Chain Reactor Manual</h3>
-    <p>Welcome, <b>wu</b>. This system is designed for high-speed terminal orchestration.</p>
+    <p>Welcome, <b>user</b>. This system is designed for high-speed terminal orchestration.</p>
     
     <h4>⚡ Pro Tricks for Smooth Execution</h4>
     <ul>
