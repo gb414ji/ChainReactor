@@ -6,6 +6,9 @@ A Persistent Terminal Workspace for Precise Automation.
 
 🚀 Overview
 Chain Reactor is a specialized automation environment designed for users who need to bridge the gap between manual terminal commands and full Python automation. It maintains directory persistence and session state across multiple steps.
+<img width="1446" height="832" alt="Screenshot 2026-01-19 at 12 35 07 AM" src="https://github.com/user-attachments/assets/c9448ffc-2935-4d1f-a88d-9da730c850e3" />
+
+
 
 🛠️ Key Features
 8-Bit Workspace: A minimalistic, high-contrast interface for maximum focus.
